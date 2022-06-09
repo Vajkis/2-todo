@@ -1,0 +1,41 @@
+body {
+  background: #35363a;
+  font-family: aria, sans-serif;
+  color: #fff;
+}
+
+a {
+  font-family: aria, sans-serif;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  padding: unset;
+  list-style-type: none;
+}
+
+.list{
+
+}
+
+.card{
+  position: absolute;
+  margin-bottom: 5px;
+  width: 100px;
+  height: 100px;
+  background: #202124;
+}
+
+.card:hover{
+  cursor: pointer;
+}
+
+.info{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
